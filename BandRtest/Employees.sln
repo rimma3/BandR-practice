@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees", "..\..\users\me\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\Employees.csproj", "{D9797920-CB64-425C-842A-468322CADB68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandR.Data", "BandR.Data\BandR.Data.csproj", "{D3713B62-F317-4714-BBD1-803DB2AF3E6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9797920-CB64-425C-842A-468322CADB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9797920-CB64-425C-842A-468322CADB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9797920-CB64-425C-842A-468322CADB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9797920-CB64-425C-842A-468322CADB68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3713B62-F317-4714-BBD1-803DB2AF3E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3713B62-F317-4714-BBD1-803DB2AF3E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3713B62-F317-4714-BBD1-803DB2AF3E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3713B62-F317-4714-BBD1-803DB2AF3E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

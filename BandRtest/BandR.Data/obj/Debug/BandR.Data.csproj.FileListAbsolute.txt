@@ -1,0 +1,10 @@
+C:\playground\BandRtest\BandR.Data\obj\Debug\BandR.Data.csprojResolveAssemblyReference.cache
+C:\playground\BandRtest\BandR.Data\bin\Debug\BandR.Data.dll.config
+C:\playground\BandRtest\BandR.Data\bin\Debug\BandR.Data.dll
+C:\playground\BandRtest\BandR.Data\bin\Debug\BandR.Data.pdb
+C:\playground\BandRtest\BandR.Data\bin\Debug\EntityFramework.dll
+C:\playground\BandRtest\BandR.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\playground\BandRtest\BandR.Data\bin\Debug\EntityFramework.xml
+C:\playground\BandRtest\BandR.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\playground\BandRtest\BandR.Data\obj\Debug\BandR.Data.dll
+C:\playground\BandRtest\BandR.Data\obj\Debug\BandR.Data.pdb
